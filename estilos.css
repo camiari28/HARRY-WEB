@@ -52,3 +52,10 @@ figcaption {text-align: center;
 
     footer {text-align: right;
     margin: 20px;}
+
+
+    span {
+        font-weight: bolder;
+        color: blueviolet;
+        font-style: italic;
+    }
